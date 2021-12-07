@@ -13,7 +13,7 @@ print("A cotação do euro é: " + cotacoes_euro)
 
 outlook = win32.Dispatch('outlook.application')
 mail = outlook.CreateItem(0)
-mail.To = 'anderson.ferlima8@gmail.com'
+mail.To = 'Your email here...'
 mail.Subject = 'Relatório com as cotações'
 mail.HTMLBody = f'''
 <p>Prezado Anderson,</p> 
