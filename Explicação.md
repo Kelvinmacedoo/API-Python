@@ -1,4 +1,4 @@
-# API-Python
+# API Dolar e Euro - Python
 Projeto de aprendizagem da linguagem Python atribuindo API 
 
 Projeto de aprendizagem de linguagem Python utlizando API para fazer a cotação do Dólar e Euro em tempo real e
